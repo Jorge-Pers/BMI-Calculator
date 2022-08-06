@@ -2,7 +2,7 @@
 
 BMI Calculator with Python
 
-The user will provide the height and weight and base on this the script will calculate BMI.
+The user will provide the height and weight and base on this the script will calculate the BMI.
 afterwards we get the BMI's value is going to be compare with some parameters in order to infom
 the health status.
 
