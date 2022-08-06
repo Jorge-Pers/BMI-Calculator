@@ -1,6 +1,6 @@
-# BMI-Calculator
+# BMI-Calculator 
 
-BMI Calculator with Python
+BMI Calculator with Python - OOP
 
 The user will provide the height and weight and base on this the script will calculate the BMI.
 afterwards we get the BMI's value is going to be compared with some parameters in order to infom
